@@ -80,3 +80,7 @@
 
 - 界面视觉参考 Qoder。
 - 后端接口：`https://models.sjtu.edu.cn/api/v1`，限额约 10 次/分钟、10 万 token/分钟。
+
+## 许可证
+
+[MIT](LICENSE) © 2026 JiachengOuyang
